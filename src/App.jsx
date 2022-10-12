@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Learning Pagination</h1>
+      <h1>Learning Pagination Firebase</h1>
       <h2 className="title">List of Users</h2>
       {/* TODO: another magic with Array.slice() */}
       {/* slice(0, 10) */}
