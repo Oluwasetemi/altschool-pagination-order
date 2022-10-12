@@ -3,3 +3,6 @@
 dist
 node_modules
 DS_Store
+.firebase
+.firebaserc
+firebase.json
